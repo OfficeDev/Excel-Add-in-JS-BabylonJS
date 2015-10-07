@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!--Created:cb85b80c-f585-40ff-8bfc-12ff4d0e34a9-->
+<OfficeApp xmlns="http://schemas.microsoft.com/office/appforoffice/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="ContentApp">
+  <Id>7b483f55-3caf-4605-ad51-fcaf2430e890</Id>
+  <Version>1.0.0.0</Version>
+  <ProviderName>[Provider name]</ProviderName>
+  <DefaultLocale>en-US</DefaultLocale>
+
+  <DisplayName DefaultValue="Lobby pathfinding application">
+    <Override Locale="fr-FR" Value="Gestion des passages"/>
+  </DisplayName>
+  <Description DefaultValue="An app which show the people pathfinding">
+    <Override Locale="fr-FR" Value="Une application pour suivre les passages via le hall d'accueil"/>
+  </Description>
+  
+  <Capabilities>
+    <Capability Name="Workbook" />
+  </Capabilities>
+  <DefaultSettings>
+    <SourceLocation DefaultValue="~remoteAppUrl/App/Welcome/Welcome.html" />
+    <RequestedWidth>400</RequestedWidth>
+    <RequestedHeight>400</RequestedHeight>
+  </DefaultSettings>
+  <Permissions>ReadWriteDocument</Permissions>
+</OfficeApp>
