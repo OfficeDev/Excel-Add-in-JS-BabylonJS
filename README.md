@@ -1,7 +1,7 @@
 # Excel-Add-in-JS-BabylonJS
 This is an Excel add-in that show how to deliver a great experience within a 3D scene for viewing Excel datas.
 
-![](ReadmeAssets/01.jpg)
+![Excel sheet showing the data rendered as a 3d scene](ReadmeAssets/01.jpg)
 
 It is using [http://www.babylonjs.com](BabylonJS), a full JavaScript 3D engine.
 
@@ -30,7 +30,7 @@ Clone or download the sample, open it with **Visual Studio 2015**.
 Please check in add in project if the start object is "*Accueil.xls*".  
 This Excel file contains pre-populated datas, mandatory for the demo :
 
-![](ReadmeAssets/03.jpg)
+![Visual Studio project properties dialog to set the Start Document](ReadmeAssets/03.jpg)
 
 Hit **F5** and try it !
 
