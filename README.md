@@ -32,7 +32,7 @@ This Excel file contains pre-populated datas, mandatory for the demo :
 
 ![Visual Studio project properties dialog to set the Start Document](ReadmeAssets/03.jpg)
 
-Hit **F5** and try it !
+Hit **F5** and try it!
 
 ## Considerations
 
