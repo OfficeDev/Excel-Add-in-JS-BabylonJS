@@ -45,3 +45,6 @@ You will find the useful code in **App/Welcome/Tracker.ts** file :
 - Function **resetDatas** : Stop the animations, reset all positions and clean the scene.
 
 
+
+
+This project has adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/). For more information, see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or comments.
