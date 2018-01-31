@@ -1,0 +1,19 @@
+### YamlMime:Sample
+sample:
+- name: Excel-Add-in-JS-BabylonJS
+  path: ''
+  description: This is an Excel add-in that show how to deliver a great experience within a 3D scene for viewing Excel datas. It uses BabylonJS, a full JavaScript 3D engine.
+  readme: ''
+  generateZip: FALSE
+  isLive: TRUE
+  technologies:
+  - Office Add-in
+  azureDeploy: ''
+  author: jthake
+  platforms: []
+  languages:
+  - JavaScript
+  extensions:
+    products:
+    - Excel
+    scenarios: []
