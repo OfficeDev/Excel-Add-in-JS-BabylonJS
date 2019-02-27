@@ -1,3 +1,16 @@
+---
+topic: sample
+products:
+- Excel
+- Office 365
+languages:
+- JavaScript
+extensions:
+  contentType: samples
+  technologies:
+  - Add-ins
+  createdDate: 10/7/2015 9:17:50 AM
+---
 # Excel-Add-in-JS-BabylonJS
 This is an Excel add-in that show how to deliver a great experience within a 3D scene for viewing Excel datas.
 
