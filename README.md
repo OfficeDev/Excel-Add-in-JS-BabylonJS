@@ -1,17 +1,7 @@
----
-page_type: sample
-products:
-- office-excel
-- office-365
-languages:
-- javascript
-extensions:
-  contentType: samples
-  technologies:
-  - Add-ins
-  createdDate: 10/7/2015 9:17:50 AM
----
-# Excel-Add-in-JS-BabylonJS
+# [ARCHIVED] Excel-Add-in-JS-BabylonJS
+
+**Note:** This repo is archived and no longer actively maintained. Security vulnerabilities may exist in the project, or its dependencies. If you plan to reuse or run any code from this repo, be sure to perform appropriate security checks on the code or dependencies first. Do not use this project as the starting point of a production Office Add-in. Always start your production code by using the Office/SharePoint development workload in Visual Studio, or the [Yeoman generator for Office Add-ins](https://github.com/OfficeDev/generator-office), and follow security best practices as you develop the add-in. 
+
 This is an Excel add-in that show how to deliver a great experience within a 3D scene for viewing Excel datas.
 
 ![Excel sheet showing the data rendered as a 3d scene](ReadmeAssets/01.jpg)
